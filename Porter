@@ -1,0 +1,51 @@
+.Frame_1 {
+	animation: 0.8s linear 0s 1 normal forwards running Frame_1;
+	transform-box: fill-box;
+	transform-origin: 50% 50%
+}
+@keyframes Frame_1 {
+	0% {
+		transform: translateX(0px) translateY(0px) rotate(0deg);
+		width: 405px;
+		height: 400px;
+	}
+}
+.Frame_1 {
+	animation: 0.8s linear 0s 1 normal forwards running Frame_1;
+	transform-box: fill-box;
+	transform-origin: 50% 50%
+}
+@keyframes Frame_1 {
+	0% {
+		transform: translateX(0px) translateY(0px) rotate(0deg);
+		width: 405px;
+		height: 400px;
+	}
+}
+.Vector1 {
+	animation: 0.8s linear 0s 1 normal forwards running Vector1;
+	transform-box: fill-box;
+	transform-origin: 50% 50%
+}
+@keyframes Vector1 {
+	0% {
+		transform: translateX(0px) translateY(0px);
+		width: 58px;
+		height: 68px;
+	}
+	25% {
+		transform: translateX(79px) translateY(-85px);
+		width: 58px;
+		height: 68px;
+	}
+	100% {
+		transform: translateX(132px) translateY(-120px);
+		width: 58px;
+		height: 68px;
+	}
+	62.5% {
+		transform: translateX(123px) translateY(-128px);
+		width: 58px;
+		height: 68px;
+	}
+}
